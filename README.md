@@ -1,5 +1,5 @@
-![Masterhead](https://media-exp1.licdn.com/dms/image/C4E16AQFmEOacPwH-xg/profile-displaybackgroundimage-shrink_200_800/0/1659435216450?e=2147483647&v=beta&t=g6ufhGG50MrrNCA89WdKXaoWEy6y5DUX1mHOvE5iIB8)
-<h1 align="center">Hi 👋, I'm Denise Bamberg</h1>
+[![Masterhead](https://media-exp1.licdn.com/dms/image/C4E16AQFmEOacPwH-xg/profile-displaybackgroundimage-shrink_200_800/0/1659435216450?e=2147483647&v=beta&t=g6ufhGG50MrrNCA89WdKXaoWEy6y5DUX1mHOvE5iIB8)](https://www.linkedin.com/in/denise-bamberg-b07b42161/)
+<h1 align="center">Denise Bamberg</h1>
 
 <h3 align="center">There Is Always Something New To Learn</h3>
 
